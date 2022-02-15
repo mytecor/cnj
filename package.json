@@ -1,0 +1,9 @@
+{
+	"name": "cnj",
+	"version": "1.0.1",
+	"main": "index.js",
+	"description": "The simplest classnames joiner (50B only)",
+	"repository": "github:mytecor/cnj",
+	"author": "Vlad Afonin <me@myt.su>",
+	"license": "MIT"
+}
