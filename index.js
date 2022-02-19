@@ -1,1 +1,2 @@
-export default (...cns) => cns.filter((e) => e).join(' ')
+const cnj = (...cns) => cns.filter((e) => e).join(' ')
+export default cnj
