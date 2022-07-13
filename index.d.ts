@@ -1,1 +1,2 @@
-export default function cnj(...cns: any[]): string
+export function cnj(...cns: any[]): string
+export default cnj

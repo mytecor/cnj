@@ -1,2 +1,2 @@
-const cnj = (...cns) => cns.filter((e) => e).join(' ')
+export const cnj = (...cns) => cns.filter(Boolean).join(' ')
 export default cnj
